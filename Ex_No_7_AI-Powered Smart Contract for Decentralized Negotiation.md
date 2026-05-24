@@ -1,6 +1,8 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+## Name - ARULARASI U
+## REG NO - 212223100002
 # Aim:
-# To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
+To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
 ## Step 1: AI-Powered Dynamic Pricing
@@ -102,6 +104,27 @@ If the buyer’s offer is fair, the deal is executed.
 
 If the offer is too low, the contract suggests a counteroffer.
 
+1.LIST ITEMS
+
+<img width="1600" height="852" alt="9c6161c0-7add-4c32-b00b-c956e161d099" src="https://github.com/user-attachments/assets/17d255a7-dce0-4023-bcc9-1c1f20d54074" />
+
+2.ITEM COUNT
+<img width="1600" height="849" alt="f8e13bbf-1cf7-4af8-9f17-38cfb5803f82" src="https://github.com/user-attachments/assets/993f9576-720a-4528-9e20-bc84221c093e" />
+
+3.CHECK ITEM DETAILS
+<img width="1600" height="855" alt="90b28219-20e4-4095-acac-3447b49e6046" src="https://github.com/user-attachments/assets/cf253cf7-507f-4ccb-bf41-4dc92ec08437" />
+
+4.MAKE OFFER
+<img width="1600" height="849" alt="b0d959b6-f030-4c85-8e93-0b93bb71eae6" src="https://github.com/user-attachments/assets/c496f2db-f30a-4b82-9ddd-a1355916a2a6" />
+
+5.AGAIN CHECK ITEM DETAILS
+<img width="1600" height="892" alt="33b56e8a-1f56-4bb6-b82b-b5d857c91ac7" src="https://github.com/user-attachments/assets/c35062ba-fb93-4cc8-af0e-99d59ec7b0a6" />
+
+
+
+
+
+
 
 
 # High-Level Overview:
@@ -117,5 +140,5 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+The AI-Powered Smart Contract for Decentralized Negotiation was successfully implemented and deployed.
 
